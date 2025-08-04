@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Anna </h1>
 <h3 align="center">BEGINNER IN PROGRAMMING</h3>
 
-## I'm a Graduate  ...!
+## I'm a Software Developer  ...!
 - 🔭 Employee at US Technologies
 
 - 🌱 I’m currently learning **everything**
