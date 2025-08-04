@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Anna </h1>
 <h3 align="center">BEGINNER IN PROGRAMMING</h3>
 
-## I'm a Student  ...!
-- 🔭 Student at College Of Engineering, Chengannur
+## I'm a Graduate  ...!
+- 🔭 Employee at US Technologies
 
 - 🌱 I’m currently learning **everything**
 
